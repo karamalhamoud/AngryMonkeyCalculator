@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryMonkeyCalculator", "AngryMonkeyCalculator\AngryMonkeyCalculator.csproj", "{567D4559-0B93-4270-AED0-DF353B3202FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567D4559-0B93-4270-AED0-DF353B3202FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567D4559-0B93-4270-AED0-DF353B3202FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567D4559-0B93-4270-AED0-DF353B3202FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567D4559-0B93-4270-AED0-DF353B3202FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA1A183-0E76-4EC7-A333-FDCE2A22E9AD}
+	EndGlobalSection
+EndGlobal
