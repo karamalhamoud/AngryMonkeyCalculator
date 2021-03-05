@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/favicon.ico" alt="Markdownify" width="100"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/favicon.ico" width="100"></a>
   <br>
   AngryMonkeyCalculator
   <br>
