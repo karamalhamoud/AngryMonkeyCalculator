@@ -6,6 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Simple calculator for hire test.</h4>
+<h4 align="center">Simple calculator for hire test.
 <br>
-<img align="center" src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/screenshot.png" width="349">
+<img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/screenshot.png" width="349">
+</h4>
