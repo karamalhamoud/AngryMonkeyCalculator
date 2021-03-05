@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.angrymonkeyagency.com/"><img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/favicon.ico" width="100"></a>
+  <a target="_blank" href="http://www.angrymonkeyagency.com/"><img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/favicon.ico" width="100"></a>
   <br>
   AngryMonkeyCalculator
   <br>
