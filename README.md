@@ -8,4 +8,4 @@
 
 <h4 align="center">Simple calculator for hire test.</h4>
 <br>
-<img src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/screenshot.png" alt="Markdownify" width="349">
+<img align="center" src="https://raw.githubusercontent.com/karamalhamoud/AngryMonkeyCalculator/master/screenshot.png" width="349">
